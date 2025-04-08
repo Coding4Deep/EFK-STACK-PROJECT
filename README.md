@@ -61,8 +61,8 @@
 
 ---
 
-<h2 style="color: #4c8eda;">📄 Resume Description (Copy this)</h2>
-<!-- <blockquote>
+<!-- <h2 style="color: #4c8eda;">📄 Resume Description (Copy this)</h2>
+ <blockquote>
   <em>
     Built and deployed a centralized logging system using EFK Stack and Docker Compose. Integrated NGINX web server with Fluentd logging driver for real-time log aggregation and visualization in Kibana. Demonstrated containerized orchestration and monitoring with zero manual log access.
   </em>
